@@ -1,0 +1,20 @@
+
+
+       body { 
+        color: red;
+    }
+    
+    h1.black-border {
+        border: 50px solid black;
+    }
+    
+    h2.black-border {
+        border: 50px solid black;
+    }
+    
+    h2#green-background {
+        background-color: green;
+    }
+
+
+
